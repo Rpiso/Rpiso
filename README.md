@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rpiso
-- 👀 I’m interested in learning new programming language and technologies.
+- 👀 I’m interested in learning new programming languages and technologies.
 - 🌱 I’m currently learning Angular and Java. I know C and Cobol languages, a very little knowledge of C#.
 <!---
 Rpiso/Rpiso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
